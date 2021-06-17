@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PisonSdkAndroidSkeleton</string>
+    <string name="yaw">yaw</string>
+    <string name="pitch">pitch</string>
+    <string name="roll">roll</string>
+    <string name="color">color</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawing_mode">drawing mode</string>
+    <string name="action">action</string>
+</resources>
